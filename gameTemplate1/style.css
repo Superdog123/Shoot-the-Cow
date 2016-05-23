@@ -5,6 +5,55 @@ body {
     background-position: center center;
 	font-family: monospace;
 
+#one{
+  background-color: red;
+  margin: 20px;
+}
+#two{
+  background-color: red;
+  margin: 20px;
+}
+#three{
+  background-color: red;
+  margin: 20px;
+}
+#four{
+  background-color: red;
+  margin: 20px;
+}
+#five{
+  background-color: red;
+  margin: 20px;
+}
+#six{
+  background-color: red;
+  margin: 20px;
+}
+#seven{
+  background-color: red;
+  margin: 20px;
+}
+#eight{
+  background-color: red;
+  margin: 20px;
+}
+#nein{
+  background-color: red;
+  margin: 20px;
+}
+#ten{
+  background-color: red;
+  margin: 20px;
+}
+.eleven {
+  margin:20px;
+  border: solid black 25px;
+}
+.twelve {
+  margin:20px;
+  border: solid green 10px;
+}
+
 }
 
 /*Stuff below governs the start screen*/
