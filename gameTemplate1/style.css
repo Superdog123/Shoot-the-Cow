@@ -4,7 +4,7 @@ body {
     background-size: cover;
     background-position: center center;
 	font-family: monospace;
-
+}
 #one{
   background-color: red;
   margin: 20px;
