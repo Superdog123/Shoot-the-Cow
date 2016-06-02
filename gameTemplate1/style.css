@@ -6,60 +6,50 @@ body {
 	font-family: monospace;
 }
 #one{
-  background-color: red;
+background-image;
   margin: 20px;
 }
 #two{
-  background-color: red;
+background-image;
   margin: 20px;
   width: 10px;
 }
 #three{
-  background-color: red;
+background-image;
   margin: 20px;
    width: 10px;
 }
 #four{
-  background-color: red;
+background-image;
   margin: 20px;
    width: 10px;
 }
 #five{
-  background-color: red;
+background-image;
   margin: 20px;
    width: 10px;
 }
 #six{
-  background-color: red;
+background-image;
    width: 10px;
 }
 #seven{
-  background-color: red;
+background-image;
    width: 10px;
 }
 #eight{
-  background-color: red;
+background-image;
    width: 10px;
 }
 #nein{
-  background-color: red;
+background-image;
    width: 10px;
 }
 #ten{
-  background-color: red;
-   width: 10px;
-}
-.eleven {
-  border: solid black 25px;
-   width: 10px;
-}
-.twelve {
-  margin:20px;
-  border: solid green 10px;
+background-image;
    width: 10px;
 }
 
-}
 
 /*Stuff below governs the start screen*/
 
