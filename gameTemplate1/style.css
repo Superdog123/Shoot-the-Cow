@@ -12,46 +12,51 @@ body {
 #two{
   background-color: red;
   margin: 20px;
+  width: 10px;
 }
 #three{
   background-color: red;
   margin: 20px;
+   width: 10px;
 }
 #four{
   background-color: red;
   margin: 20px;
+   width: 10px;
 }
 #five{
   background-color: red;
   margin: 20px;
+   width: 10px;
 }
 #six{
   background-color: red;
-  margin: 20px;
+   width: 10px;
 }
 #seven{
   background-color: red;
-  margin: 20px;
+   width: 10px;
 }
 #eight{
   background-color: red;
-  margin: 20px;
+   width: 10px;
 }
 #nein{
   background-color: red;
-  margin: 20px;
+   width: 10px;
 }
 #ten{
   background-color: red;
-  margin: 20px;
+   width: 10px;
 }
 .eleven {
-  margin:20px;
   border: solid black 25px;
+   width: 10px;
 }
 .twelve {
   margin:20px;
   border: solid green 10px;
+   width: 10px;
 }
 
 }
