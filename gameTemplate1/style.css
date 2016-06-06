@@ -11,6 +11,7 @@ background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
   width: 200px;
   height: 200px;
   background-size: 200px 200px;
+  position: absolute;
 }
 #two{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -18,6 +19,7 @@ background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
   width: 200px;
   height: 200px;
   background-size: 200px 200px;
+  position: absolute;
 }
 #three{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -25,6 +27,7 @@ background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #four{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -32,6 +35,7 @@ background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #five{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -39,6 +43,7 @@ background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #six{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -46,6 +51,7 @@ margin: 20px;
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #seven{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -53,6 +59,7 @@ margin: 20px;
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #eight{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -60,6 +67,7 @@ margin: 20px;
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #nein{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -67,6 +75,7 @@ margin: 20px;
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 #ten{
 background-image: url("http://wagyu4u.com/images/FC-MR-Ichiro-19-Photo.jpg");
@@ -74,6 +83,7 @@ margin: 20px;
    width: 200px;
    height: 200px;
    background-size: 200px 200px;
+   position: absolute;
 }
 
 
