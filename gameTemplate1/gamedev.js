@@ -1,18 +1,14 @@
 	$(document).ready(function(){
-    $("#one").click(function(){
-        $("div").animate({left: '250px'});
-    });
-});
 
-$("#one").animate({right:'4100px'},6000);
-$("#two").animate({right:'4100px'},6000);
-$("#three").animate({right:'4100px'},6000);
-$("#four").animate({right:'4100px'},6000);
-$("#five").animate({right:'4100px'},6000);
-$("#six").animate({right:'4100px'},6000);
+$("#one").animate({right:'4100px'},5590);
+$("#two").animate({left:'4100px'},6500);
+$("#three").animate({right:'4100px'},5500);
+$("#four").animate({left:'4100px'},3500);
+$("#five").animate({right:'4100px'},7000);
+$("#six").animate({left:'4100px'},2000);
 $("#seven").animate({right:'4100px'},6000);
-$("#eight").animate({right:'4100px'},6000);
-$("#nein").animate({right:'4100px'},6000);
-$("#ten").animate({left:'4100px'},6000);
+$("#eight").animate({left:'4100px'},5000);
+$("#nein").animate({right:'4100px'},3000);
+$("#ten").animate({left:'4100px'},4000);
 
 });
