@@ -13,6 +13,6 @@ $("#six").animate({right:'4100px'},6000);
 $("#seven").animate({right:'4100px'},6000);
 $("#eight").animate({right:'4100px'},6000);
 $("#nein").animate({right:'4100px'},6000);
-$("#ten").animate({right:'4100px'},6000);
+$("#ten").animate({left:'4100px'},6000);
 
 });
