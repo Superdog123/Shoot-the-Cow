@@ -12,3 +12,6 @@ $("#nein").animate({right:'4100px'},6000);
 $("#ten").animate({left:'4100px'},6000);
 
 });
+  $("#one").click(function(){
+    $("#one").hide();
+});
